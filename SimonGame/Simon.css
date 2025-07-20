@@ -1,0 +1,96 @@
+*{
+	padding: 0;
+	margin: 0;
+	
+	font-family: 'Arial', sans-serif;
+	background-color: wheat;
+	
+}
+
+h1{
+	text-align: center;
+	color: #333;
+	font-size: 2.5rem;
+	margin-bottom: 20px;
+	
+}
+h2{
+	text-align: center;
+	color: #555;
+	font-size: 1.5rem;
+	margin-bottom: 20px;
+}
+.btn-container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	;
+	margin-top: 20px;
+}
+.btn{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	font-size: 1.5rem;
+	cursor: pointer;
+	margin: 20px;
+}
+.red{
+	background-color: red;
+	box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+	transition: transform 0.2s;
+}
+.green{
+	background-color: green;
+	box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+	transition: transform 0.2s;
+}
+.blue{
+	background-color: blue;
+	box-shadow: 0 0 10px rgba(0, 0, 255, 0.5);
+	transition: transform 0.2s;
+}
+.yellow{
+	background-color: yellow;
+	box-shadow: 0 0 10px rgba(255, 255, 0, 0.5);
+	transition: transform 0.2s;
+}
+
+.start-btn{
+	
+	
+	padding: 10px 20px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: background-color 0.3s, transform 0.2s;
+	
+}
+
+.start-btn{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.btn-start{
+	background-color: #f0f0f0;
+	color: #333;
+	font-size: 1.2rem;
+	border: 2px solid #ccc;
+	width: 200px;
+	height: 50px;
+	border-radius: 20px;
+
+}
+.flash{
+
+	background-color: white;
+}
+.userflash{
+	background-color: green;
+}
