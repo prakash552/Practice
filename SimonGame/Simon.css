@@ -53,8 +53,8 @@ color: #333;
 	transition: transform 0.2s;
 }
 .green{
-	background-color: green;
-	box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+	background-color: black;
+	box-shadow: 0 0 10px rgba(247, 248, 247, 0.9);
 	transition: transform 0.2s;
 }
 .blue{
