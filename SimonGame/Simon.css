@@ -52,7 +52,7 @@ color: #333;
 	box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
 	transition: transform 0.2s;
 }
-.green{
+.black{
 	background-color: black;
 	box-shadow: 0 0 10px rgba(247, 248, 247, 0.9);
 	transition: transform 0.2s;
